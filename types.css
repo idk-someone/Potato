@@ -1,0 +1,137 @@
+.menu {
+    margin-top: 10px;
+    margin-left:30px;
+    color: rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-weight: 1000;
+    display: inline-block;
+    margin-bottom: 30px;
+    word-spacing: 4px;
+    letter-spacing: 3px;
+} 
+
+.menu:hover{
+    color: darkgray;
+}
+
+
+header{
+position: sticky;
+top:0;
+padding: 1px;
+background-color: #3e2723 ;
+
+}
+.imgs{
+    width: 60px;
+}
+
+.title1{
+text-align: center;
+color: rgb(255, 255, 255);
+font-family: cursive;
+font-size: 100px;
+padding: 100px;
+background-image: url("R.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; 
+  border: 1px solid white;
+border-width: 5px;
+margin-top: 0px;
+}
+
+body {
+    margin-left: 170px;
+    margin-right: 170px;
+  background-color: #AC8460;
+  border: 5px solid #212121;
+
+}
+
+
+#sus{
+    padding: 3px;
+    border:5px solid #212121;
+    background-color: #212121;
+}
+
+
+#tit{
+
+    color: #DEB99C;
+    display: inline-block;
+    line-height: 1;
+    max-width: 380px;
+    outline: none;
+    overflow: hidden;
+    padding: 16px 12px;
+    text-decoration: none;
+    text-overflow: ellipsis;
+}
+
+
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 5px;
+      margin-top: -23px;
+      background-image: url(WhatsApp\ Image\ 2025-05-31\ at\ 04.43.33_4a9b5f90.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+
+    .container {
+      cursor: pointer;
+    }
+
+    input[type="checkbox"] {
+      display: none;
+    }
+
+    .kjj {
+      width: 320px;
+      display: block;
+      border-radius: 8px;
+      transition: transform 0.2s;
+      margin: 20px;
+    }
+
+
+
+    .text {
+      display: none;
+      padding: 10px;
+      background: transparent;
+      color: #ffffff;
+      margin-top: 10px;
+      text-align: center;
+      font-size: 15px;
+      font-family: cursive;
+    }
+
+    input[type="checkbox"]:checked + label + .text {
+      display: block;
+    }
+
+
+
+
+
+
+
+
+
+    
+#jh{
+    padding: 15px;
+    background-color: #212121;
+    margin-top: -65px;
+    color: #DEB99C;
+    font-family: cursive;
+}
+
+
+
+
